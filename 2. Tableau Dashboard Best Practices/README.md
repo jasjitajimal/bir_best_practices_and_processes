@@ -18,7 +18,6 @@ Use colors purposefully to highlight important information.
 Ensure color choices are accessible and do not cause confusion or misinterpretation.
 Logical Layout:
 
-
 Arrange elements on the dashboard in a logical flow, guiding users through the information.
 Group related content together and use containers to organize components.
 User Interactivity:
