@@ -32,7 +32,7 @@ Creating effective Tableau dashboards involves a combination of thoughtful desig
 - Leverage Tableau's interactive features (filter actions, highlight actions, URL actions) to enhance user engagement.
 - Provide tooltips to offer additional context or details when users hover over specific data points.
 
-## 7. Performance Optimization
+## 7. Performance Optimization 
 
 - Optimize data source connections and queries to ensure quick and efficient loading times.
 - Limit the use of large data sets and consider data aggregation or extracts when dealing with massive datasets.
