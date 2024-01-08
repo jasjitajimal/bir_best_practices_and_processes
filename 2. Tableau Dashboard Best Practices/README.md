@@ -14,7 +14,6 @@ Maintain a consistent color scheme, font, and layout across the dashboard.
 Consistency enhances the overall user experience and makes the dashboard more visually appealing.
 Effective Use of Colors:
 
-
 Use colors purposefully to highlight important information.
 Ensure color choices are accessible and do not cause confusion or misinterpretation.
 Logical Layout:
