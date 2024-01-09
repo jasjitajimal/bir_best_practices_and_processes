@@ -49,6 +49,7 @@ Creating effective Tableau dashboards involves a combination of thoughtful desig
 
 ## 10. Documentation and Annotations
 
+
 - Include explanatory notes, comments, or annotations where needed to guide users through the data and insights.
 - Document calculations and data sources to aid in collaboration and understanding.
 
