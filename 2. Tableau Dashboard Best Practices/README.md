@@ -44,6 +44,7 @@ Creating effective Tableau dashboards involves a combination of thoughtful desig
 
 ## 9. Clear Titles and Headings
 
+
 - Use descriptive and clear titles and headings for sheets, dashboards, and captions.
 - Titles should convey the main message or insight of the visualizations.
 
