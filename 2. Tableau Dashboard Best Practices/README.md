@@ -59,7 +59,6 @@ Creating effective Tableau dashboards involves a combination of thoughtful desig
 
 ## 12. User Training
 
-
 - Provide training or documentation for users, especially if the dashboard includes complex or advanced features.
 - Help users understand how to interpret the visualizations and make the most of the interactive elements.
 
