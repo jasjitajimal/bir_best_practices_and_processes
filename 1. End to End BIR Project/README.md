@@ -99,12 +99,18 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Create interactive prototypes of reports and dashboards to gather user feedback early in the development process.
 - Iteratively refine prototypes based on stakeholder input, ensuring alignment with user expectations.
 - Use prototyping as a tool for validating data visualizations and user workflows.
+- **Example:**
+    - Prototype: Interactive dashboard showcasing key sales metrics.
+    - Gather feedback to refine the dashboard's design and functionality.
 
 ## 12. Implement BI Solution
 
 - Develop the BI solution based on the finalized requirements, adhering to best practices in coding and development.
 - Conduct thorough testing to identify and address any bugs or issues.
 - Collaborate with IT and relevant departments for a seamless integration process.
+- **Example:**
+    - Develop the BI solution using Python for backend analytics and integration.
+    - Test the solution thoroughly to ensure data accuracy and system stability.
 
 ## 13. User Training and Adoption
 
