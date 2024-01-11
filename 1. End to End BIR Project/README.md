@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides documentation for a generic Business Intelligence Reporting (BIR) process. The BIR process outlines a series of steps to define and implement a business intelligence system, applicable to a wide range of organizations.
+This repository provides documentation for a generic Business Intelligence Reporting process. This process outlines a series of steps to define and implement a business intelligence system, applicable to a wide range of organizations.
 
 ## 1. Identify Stakeholders
 
@@ -49,7 +49,13 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Internal sources: CRM system, ERP system.
     - External sources: Market data from industry reports.
 
-## 6. Assess Data Quality
+## 6. Data Extraction
+
+**Explanation:** Extract relevant data from the identified sources using ETL (Extract, Transform, Load) tools or other appropriate methods.
+
+**Example:** Utilize tools like Talend or Apache NiFi to extract sales data from the CRM database.
+
+## 7. Assess Data Quality
 
 - Implement a data profiling process to assess the quality of data, identifying issues related to accuracy, completeness, consistency, and timeliness.
 - Develop a strategy for data cleansing and transformation to address any identified quality issues.
@@ -58,7 +64,21 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Data quality issue: Incomplete customer records in the CRM system.
     - Implement a data cleansing process to address these issues.
 
-## 7. Define User Roles and Responsibilities
+    ### 7.1. Data Transformation
+    
+ - **Data Validation**: Implement thorough data validation processes to identify and handle any inconsistencies, errors, or missing values in the dataset. This involves performing data quality checks, verifying data integrity, and addressing any discrepancies before visualizing the data.
+  - **Data Cleansing**: Cleanse the data by removing outliers, duplicates, or irrelevant data points. Apply data transformation techniques such as normalization, standardization, or imputation to handle missing values or inconsistent formats. By ensuring data cleanliness, we can prevent inaccurate visual representations and misleading insights.
+  - **Explanation:** Cleanse and transform raw data into a standardized and usable format. Ensure data consistency and accuracy.
+
+      **Example:** Standardize date formats, handle missing values, and convert currencies to a common unit.
+
+  ### 7.2. Data Integration
+
+    **Explanation:** Integrate data from various sources to create a unified dataset. Merge and consolidate data to provide a comprehensive view.
+
+     **Example:** Combine customer data from the CRM with sales data from the ERP to create a consolidated customer profile.
+
+## 8. Define User Roles and Responsibilities
 
 - Clearly define user roles such as executives, analysts, and operational staff, outlining their responsibilities within the BI system.
 - Determine access levels and permissions based on user roles to ensure data security and privacy.
@@ -67,7 +87,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Analysts responsible for creating reports and executives for decision-making.
     - Assign permissions based on roles to ensure data security.
 
-## 8. Create a Data Governance Plan
+## 9. Create a Data Governance Plan
 
 - Develop data governance policies covering data security, privacy, compliance, and ethical use.
 - Assign roles and responsibilities for data stewardship, data ownership, and data custodianship.
@@ -76,7 +96,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Data governance policy: Data access restricted to authorized personnel.
     - Data stewardship: Assign data stewards to ensure data quality.
 
-## 9. Design Information Delivery
+## 10. Design Information Delivery
 
 - Choose appropriate visualization techniques for different types of data and audiences.
 - Determine the frequency and format of information delivery, considering scheduled reports, real-time dashboards, and ad-hoc queries.
@@ -85,7 +105,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Visualization technique: Bar charts for sales performance.
     - Information delivery: Real-time dashboards for immediate insights.
 
-## 10. Select BI Tools and Technologies
+## 11. Select BI Tools and Technologies
 
 - Evaluate BI tools and technologies based on factors such as scalability, ease of use, integration capabilities, and cost.
 - Consider the compatibility of selected tools with existing infrastructure and technologies.
@@ -94,7 +114,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Tool: Tableau for its user-friendly interface and robust visualization capabilities.
     - Consider compatibility with existing tools like the CRM system.
 
-## 11. Develop Prototypes
+## 12. Develop Prototypes
 
 - Create interactive prototypes of reports and dashboards to gather user feedback early in the development process.
 - Iteratively refine prototypes based on stakeholder input, ensuring alignment with user expectations.
@@ -103,7 +123,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Prototype: Interactive dashboard showcasing key sales metrics.
     - Gather feedback to refine the dashboard's design and functionality.
 
-## 12. Implement BI Solution
+## 13. Implement BI Solution
 
 - Develop the BI solution based on the finalized requirements, adhering to best practices in coding and development.
 - Conduct thorough testing to identify and address any bugs or issues.
@@ -112,7 +132,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Develop the BI solution using Python for backend analytics and integration.
     - Test the solution thoroughly to ensure data accuracy and system stability.
 
-## 13. User Training and Adoption
+## 14. User Training and Adoption
 
 - Develop a comprehensive training program for users at all levels, focusing on tool functionality, data interpretation, and decision-making.
 - Provide user documentation and support resources for ongoing learning.
@@ -121,7 +141,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Training program: Workshops on using Tableau for data analysis.
     - Encourage adoption through incentives like recognizing top dashboard users.
 
-## 14. Monitor and Evaluate
+## 15. Monitor and Evaluate
 
 - Implement continuous monitoring of BI system performance, including data refresh rates, response times, and system availability.
 - Gather regular feedback from users to identify areas for improvement.
@@ -130,7 +150,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Monitor performance metrics such as dashboard load times and user engagement.
     - Gather feedback from users through regular surveys.
 
-## 15. Iterate and Improve
+## 16. Iterate and Improve
 
 - Regularly review and update the BI system based on evolving business needs and technological advancements.
 - Conduct periodic assessments of user satisfaction and system performance.
