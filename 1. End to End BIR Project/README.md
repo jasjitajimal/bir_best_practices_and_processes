@@ -117,15 +117,24 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Develop a comprehensive training program for users at all levels, focusing on tool functionality, data interpretation, and decision-making.
 - Provide user documentation and support resources for ongoing learning.
 - Encourage user adoption through workshops, tutorials, and incentives.
+- **Example:**
+    - Training program: Workshops on using Tableau for data analysis.
+    - Encourage adoption through incentives like recognizing top dashboard users.
 
 ## 14. Monitor and Evaluate
 
 - Implement continuous monitoring of BI system performance, including data refresh rates, response times, and system availability.
 - Gather regular feedback from users to identify areas for improvement.
 - Establish key metrics for evaluating the overall impact of the BI system on business objectives.
+- **Example:**
+    - Monitor performance metrics such as dashboard load times and user engagement.
+    - Gather feedback from users through regular surveys.
 
 ## 15. Iterate and Improve
 
 - Regularly review and update the BI system based on evolving business needs and technological advancements.
 - Conduct periodic assessments of user satisfaction and system performance.
 - Implement agile development practices to quickly respond to changing requirements.
+- **Example:**
+    - Regularly update the dashboard based on user feedback and changing business needs.
+    - Implement agile development practices for quick adaptation to new requirements.
