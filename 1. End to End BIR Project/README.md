@@ -18,6 +18,9 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Clearly define short-term and long-term business goals that the BI system should contribute to, such as revenue growth, cost reduction, or market expansion.
 - Align objectives with the organization's strategic vision and ensure they are measurable, achievable, relevant, and time-bound (SMART).
 - Prioritize goals to focus on the most critical aspects of the business.
+- **Example:**
+    - Business goal: Increase revenue by 15% in the next fiscal year.
+    - Objective: Improve sales forecasting accuracy to support revenue growth.
 
 ## 3. Conduct a Business Assessment
 
