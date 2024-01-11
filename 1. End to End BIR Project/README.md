@@ -45,24 +45,36 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Compile a comprehensive list of internal and external data sources that contribute to the BI requirements.
 - Evaluate the accessibility and quality of each data source to ensure it meets the standards required for effective analysis.
 - Consider the integration of structured and unstructured data for a holistic view.
+- **Example:**
+    - Internal sources: CRM system, ERP system.
+    - External sources: Market data from industry reports.
 
 ## 6. Assess Data Quality
 
 - Implement a data profiling process to assess the quality of data, identifying issues related to accuracy, completeness, consistency, and timeliness.
 - Develop a strategy for data cleansing and transformation to address any identified quality issues.
 - Establish ongoing data quality monitoring practices to maintain high standards.
+- **Example:**
+    - Data quality issue: Incomplete customer records in the CRM system.
+    - Implement a data cleansing process to address these issues.
 
 ## 7. Define User Roles and Responsibilities
 
 - Clearly define user roles such as executives, analysts, and operational staff, outlining their responsibilities within the BI system.
 - Determine access levels and permissions based on user roles to ensure data security and privacy.
 - Establish a feedback loop for users to provide insights on system usability and functionality.
+- **Example:**
+    - Analysts responsible for creating reports and executives for decision-making.
+    - Assign permissions based on roles to ensure data security.
 
 ## 8. Create a Data Governance Plan
 
 - Develop data governance policies covering data security, privacy, compliance, and ethical use.
 - Assign roles and responsibilities for data stewardship, data ownership, and data custodianship.
 - Implement procedures for data classification, access control, and audit trails to maintain data integrity.
+- **Example:**
+    - Data governance policy: Data access restricted to authorized personnel.
+    - Data stewardship: Assign data stewards to ensure data quality.
 
 ## 9. Design Information Delivery
 
