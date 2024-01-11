@@ -2,7 +2,6 @@
 
 ## Overview
 
-
 This repository provides documentation for a generic Business Intelligence Requirement (BIR) process. The BIR process outlines a series of steps to define and implement a business intelligence system, applicable to a wide range of organizations.
 
 ## 1. Identify Stakeholders
