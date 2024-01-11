@@ -81,12 +81,18 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Choose appropriate visualization techniques for different types of data and audiences.
 - Determine the frequency and format of information delivery, considering scheduled reports, real-time dashboards, and ad-hoc queries.
 - Design user-friendly interfaces to facilitate easy interpretation and interaction with BI insights.
+- **Example:**
+    - Visualization technique: Bar charts for sales performance.
+    - Information delivery: Real-time dashboards for immediate insights.
 
 ## 10. Select BI Tools and Technologies
 
 - Evaluate BI tools and technologies based on factors such as scalability, ease of use, integration capabilities, and cost.
 - Consider the compatibility of selected tools with existing infrastructure and technologies.
 - Ensure that the chosen tools support the required analytics and reporting features.
+- **Example:**
+    - Tool: Tableau for its user-friendly interface and robust visualization capabilities.
+    - Consider compatibility with existing tools like the CRM system.
 
 ## 11. Develop Prototypes
 
