@@ -36,6 +36,9 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Collaborate with stakeholders to identify and define key metrics that directly align with business goals.
 - Ensure that KPIs are specific, measurable, actionable, relevant, and time-bound (SMART).
 - Establish a KPI hierarchy, distinguishing between strategic, tactical, and operational metrics.
+- **Example:**
+    - KPI: Monthly sales growth rate.
+    - Ensure the KPI is measurable, e.g., achieve a 10% monthly sales growth rate.
 
 ## 5. Determine Data Sources
 
