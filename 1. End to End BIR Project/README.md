@@ -27,6 +27,9 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Evaluate existing business processes to identify inefficiencies, bottlenecks, and areas where BI can drive improvements.
 - Assess the current state of data governance, data quality, and data integration to identify potential challenges.
 - Review the existing BI landscape, including tools and technologies in use, to understand integration points.
+- **Example:**
+    - Identify inefficiencies in the order fulfillment process and bottlenecks in the supply chain.
+    - Evaluate the current BI landscape, noting challenges such as data silos.
 
 ## 4. Establish Key Performance Indicators (KPIs)
 
