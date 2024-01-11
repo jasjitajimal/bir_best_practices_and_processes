@@ -9,6 +9,9 @@ This repository provides documentation for a generic Business Intelligence Requi
 - Compile a list of key stakeholders across different departments, ensuring representation from executives, managers, analysts, and end-users.
 - Conduct stakeholder interviews or workshops to gather insights into their specific needs and expectations from the BI system.
 - Identify any external stakeholders, such as clients, partners, or regulatory bodies, who may have an interest in the BI outcomes.
+- **Example:**
+    - Stakeholders include executives (e.g., CEO, CFO), managers (e.g., sales manager), analysts, and end-users from various departments.
+    - Conduct stakeholder interviews to understand their needs, e.g., the sales manager needs sales performance insights.
 
 ## 2. Define Business Goals and Objectives
 
