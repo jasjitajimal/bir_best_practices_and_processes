@@ -46,8 +46,8 @@ This repository provides documentation for a generic Business Intelligence Repor
 - Evaluate the accessibility and quality of each data source to ensure it meets the standards required for effective analysis.
 - Consider the integration of structured and unstructured data for a holistic view.
 - **Example:**
-    - Internal sources: CRM system, ERP system.
-    - External sources: Market data from industry reports.
+    - Internal sources: Customer relationship management (CRM) system and enterprise resource planning (ERP) system
+      - External sources: Market data from industry reports.
 
 ## 6. Data Extraction
 
