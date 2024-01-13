@@ -24,6 +24,7 @@ This repository provides documentation for a generic Business Intelligence Repor
 
 ## 3. Conduct a Business Assessment
 
+
 - Evaluate existing business processes to identify inefficiencies, bottlenecks, and areas where BI can drive improvements.
 - Assess the current state of data governance, data quality, and data integration to identify potential challenges.
 - Review the existing BI landscape, including tools and technologies in use, to understand integration points.
