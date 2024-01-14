@@ -24,7 +24,6 @@ Creating effective Tableau dashboards involves a combination of thoughtful desig
 
 ## 5. Logical Layout
 
-
 - Arrange elements on the dashboard in a logical flow, guiding users through the information.
 - Group related content together and use containers to organize components.
 
