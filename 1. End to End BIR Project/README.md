@@ -141,6 +141,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Training program: Workshops on using Tableau for data analysis.
     - Encourage adoption through incentives like recognizing top dashboard users.
 
+
 ## 15. Monitor and Evaluate
 
 - Implement continuous monitoring of BI system performance, including data refresh rates, response times, and system availability.
