@@ -150,7 +150,6 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Monitor performance metrics such as dashboard load times and user engagement.
     - Gather feedback from users through regular surveys.
 
-
 ## 16. Iterate and Improve
 
 - Regularly review and update the BI system based on evolving business needs and technological advancements.
