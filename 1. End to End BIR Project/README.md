@@ -152,7 +152,6 @@ This repository provides documentation for a generic Business Intelligence Repor
 
 ## 16. Iterate and Improve
 
-
 - Regularly review and update the BI system based on evolving business needs and technological advancements.
 - Conduct periodic assessments of user satisfaction and system performance.
 - Implement agile development practices to quickly respond to changing requirements.
