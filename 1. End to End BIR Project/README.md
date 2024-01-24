@@ -49,6 +49,7 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Internal sources: Customer relationship management (CRM) system and enterprise resource planning (ERP) system
       - External sources: Market data from industry reports.
 
+
 ## 6. Data Extraction
 
 **Explanation:** Extract relevant data from the identified sources using ETL (Extract, Transform, Load) tools or other appropriate methods.
