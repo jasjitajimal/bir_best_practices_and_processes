@@ -31,7 +31,6 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Identify inefficiencies in the order fulfillment process and bottlenecks in the supply chain.
     - Evaluate the current BI landscape, noting challenges such as data silos.
 
-
 ## 4. Establish Key Performance Indicators (KPIs)
 
 - Collaborate with stakeholders to identify and define key metrics that directly align with business goals.
