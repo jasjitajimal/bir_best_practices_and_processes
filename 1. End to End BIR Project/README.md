@@ -22,7 +22,6 @@ This repository provides documentation for a generic Business Intelligence Repor
     - Business goal: Increase revenue by 15% in the next fiscal year.
     - Objective: Improve sales forecasting accuracy to support revenue growth.
 
-
 ## 3. Conduct a Business Assessment
 
 - Evaluate existing business processes to identify inefficiencies, bottlenecks, and areas where BI can drive improvements.
