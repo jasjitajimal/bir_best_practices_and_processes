@@ -63,3 +63,4 @@ Creating effective Tableau dashboards involves a combination of thoughtful desig
 - Help users understand how to interpret the visualizations and make the most of the interactive elements.
 
 By following these best practices, you can create Tableau dashboards that effectively communicate insights, engage users, and provide a positive user experience.
+
