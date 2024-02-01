@@ -4,6 +4,7 @@ Creating effective Tableau dashboards involves a combination of thoughtful desig
 
 ## 1. Understand Your Audience
 
+
 - Know who your audience is and design the dashboard to meet their needs.
 - Consider the level of detail and the type of information that is most relevant to your users.
 
