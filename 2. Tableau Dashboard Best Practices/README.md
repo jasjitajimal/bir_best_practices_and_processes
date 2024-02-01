@@ -1,5 +1,6 @@
 # Tableau Dashboard Best Practices
 
+
 Creating effective Tableau dashboards involves a combination of thoughtful design, usability, and performance considerations. Here are some best practices to help you create impactful Tableau dashboards:
 
 ## 1. Understand Your Audience
